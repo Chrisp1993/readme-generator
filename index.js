@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 
+
 const generateMarkdown = require('./utils/generateMarkdown');
 
 const fs = require('fs');
@@ -61,7 +62,7 @@ function init() {
         var template = generateMarkdown(answers);
         console.log(template);
         //function writeToFile(fileName, data) {}
-        fs.writeFile('README.md', template, (error) => {
+        fs.writeFile('PROJECTREADME.md', template, (error) => {
             if (error) {
                 console.log(error);
             } else {
