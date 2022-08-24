@@ -37,9 +37,9 @@ Please see attached video.
 If you have any questions, please contact the coding team at chrispollio93@gmail.com
 
 
-Deployed: 
+Deployed at: https://github.com/Chrisp1993/readme-generator
 
-Walkthrough Video: 
+Walkthrough Video: https://drive.google.com/file/d/1d6dReytdbLgnYASHsDScWFhK754e3Lsy/view
 
 Study group: Chris P., Susan, Jackson, Sarah, Ricky, Aaron.
 
