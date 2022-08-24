@@ -27,17 +27,19 @@ function generateMarkdown(answers) {
     
     ## Table of Contents
   
-    - Description(#description)
-    - Installation(#Installation)
-    - Usage(#usage)
-    - Contributors(#contribution)
-    - Tests(#testing)
-    - Questions(#questions)
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Project Use](#project-use)
+    - [Contributors](#contributors)
+    - [Github Username](#github-username)
+    - [License](#license)
+    - [Tests](#tests)
+    - [Questions](#questions)
     
     ## Installation:
     ${answers.installationInstructions}
     
-    ## Usage:
+    ## Project Use:
     ${answers.usageInformation}
     
     ## Contributors:
