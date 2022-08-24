@@ -8,6 +8,7 @@
 #### • [Contributors](#contributors)
 #### • [Github Username](#github-username)
 #### • [License](#license)
+#### • [Questions](#questions)
 
 
 
@@ -31,5 +32,15 @@ https://opensource.org/licenses/MIT
 
 ## Test: 
 Please see attached video.
+
+## Questions: 
+If you have any questions, please contact the coding team at chrispollio93@gmail.com
+
+
+Deployed: 
+
+Walkthrough Video: 
+
+Study group: Chris P., Susan, Jackson, Sarah, Ricky, Aaron.
 
 
