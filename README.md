@@ -43,4 +43,5 @@ Walkthrough Video: https://drive.google.com/file/d/1d6dReytdbLgnYASHsDScWFhK754e
 
 Study group: Chris P., Susan, Jackson, Sarah, Ricky, Aaron.
 
+<img width="1222" alt="Screen Shot 2022-08-23 at 10 26 00 PM" src="https://user-images.githubusercontent.com/101524089/186307297-8c8fc431-9527-4fab-a28c-8abe1fd1e9ea.png">
 
